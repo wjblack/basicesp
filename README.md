@@ -38,9 +38,9 @@ Revisions
 that caused issues with some sensors and had various other shortcomings (see
 the docs inside for details).
 
-[Revision 2](rev2/) is under development and will include the filter caps,
-mounting holes, and a number of other improvements.  The physical layout will
-change significantly.
+[Revision 2](rev2/) is being produced now at PCBWay.  It includes filter caps
+on the power regulator, mounting holes, a power cutoff jumper, and more pins
+broken out.
 
 
 Thanks

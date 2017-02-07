@@ -36,7 +36,7 @@ either VCC or GND connection to match ends).
 Production and Files
 --------------------
 
-This board is still under development and hasn't been sent to manufacture yet.
+This board was sent to manufacture on 6 Feb 2017.
 
 The design was done using kicad for both schematic, netlist, and PCB layout.
 The kicad source files are all in [kicad/](kicad/).
@@ -51,4 +51,4 @@ And here is a [PDF of the schematic](schematic.pdf).
 Shortcomings
 ------------
 
-It hasn't been built yet ;-)
+A 1.5-week wait from China :-)
