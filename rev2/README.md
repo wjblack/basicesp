@@ -51,4 +51,5 @@ And here is a [PDF of the schematic](schematic.pdf).
 Shortcomings
 ------------
 
-A 1.5-week wait from China :-)
+Revision A had two disconnected nodes (notably the +5V through the power header
+and a filled region break for ground).  That's been fixed in rev 2.0b.
